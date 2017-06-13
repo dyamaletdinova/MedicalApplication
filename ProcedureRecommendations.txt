@@ -1,0 +1,7 @@
+Emergency! You may have damaged your spinal cord.|Emergency Surgery|7|120
+See doctor if pain persists.|Schedule followup|1|15
+You may have an inflammation of the joints.|Chiropractic adjustment|4|20
+See doctor to address symptoms.|Schedule an appointment|2|20
+You may have a respiratory infection.|Appointment to prescribe antibiotics|3|15
+You may have a sprain or strain.|Apply compression and administer pain relief|5|30
+You may have a muscle or nerve injury.|Back surgery|6|60
